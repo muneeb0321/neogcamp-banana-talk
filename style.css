@@ -1,0 +1,30 @@
+.nav-background{
+    background-color: #F59E0B;
+    text-align: center;
+    border: solid;
+
+}
+
+.btn{
+    border: #F59E0B;
+    padding: 20px;
+    background-color: #F59E0B;
+    border: solid;
+    text-align: center;
+    margin-left: 10px;
+}
+.btn-background{
+    background-color: none;
+    text-align: center;
+    
+
+}
+
+.output{
+    margin-left: 15px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.btn1{
+    font-weight: bold;
+}
